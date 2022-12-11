@@ -1,0 +1,3 @@
+spring:
+  elasticsearch:
+    uris: http://42.192.22.196:9200
